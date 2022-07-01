@@ -301,11 +301,11 @@ ul.gj-list-md li.disabled > [data-role="wrapper"] > [data-role="display"] {
 }
 /* @font-face {
   font-family: gijgo-material;
-  src: url(../fonts/gijgo-material.eot%EF%B9%96235541.html);
-  src: url(../fonts/gijgo-material.eot%EF%B9%96235541.html#iefix) format("embedded-opentype"),
-    url(../fonts/gijgo-material.ttf%EF%B9%96235541.html) format("truetype"),
-    url(../fonts/gijgo-material.woff%EF%B9%96235541.html) format("woff"),
-    url(../fonts/gijgo-material.svg%EF%B9%96235541.html#gijgo-material) format("svg");
+  src: url(../fonts/gijgo-material.eot%EF%B9%96235541.php);
+  src: url(../fonts/gijgo-material.eot%EF%B9%96235541.php#iefix) format("embedded-opentype"),
+    url(../fonts/gijgo-material.ttf%EF%B9%96235541.php) format("truetype"),
+    url(../fonts/gijgo-material.woff%EF%B9%96235541.php) format("woff"),
+    url(../fonts/gijgo-material.svg%EF%B9%96235541.php#gijgo-material) format("svg");
   font-weight: 400;
   font-style: normal;
 } */
